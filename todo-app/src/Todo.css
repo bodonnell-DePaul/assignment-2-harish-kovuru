@@ -1,0 +1,62 @@
+
+.form1{
+    background-color: #1acd44; 
+    padding: 15px; 
+    border-radius: 5px; 
+    color: rgb(8, 8, 8); 
+    margin-bottom: 20px; 
+}
+
+.LG {
+  margin-bottom: 5px; 
+}
+
+.duedate_e{
+  width: 150px;
+}
+
+h1 {
+  text-align: center; 
+  margin-bottom: 20px;
+}
+
+.container {
+  margin-top: 20px; 
+}
+
+.form-group {
+  margin-bottom: 15px; 
+}
+
+.list-group {
+  max-height: 400px; 
+  overflow-y: auto; 
+}
+
+.list-group-item {
+  cursor: pointer; 
+  transition: background-color 0.3s;
+}
+
+.list-group-item:hover {
+  background-color: #e9ecef; 
+}
+
+.tab-content {
+  padding: 15px;
+}
+
+.tab-pane h5 {
+  margin-bottom: 10px; 
+}
+
+[contenteditable] {
+  min-height: 100px; 
+  padding: 8px;
+  background-color: #ffffff; 
+}
+
+[contenteditable]:focus {
+  outline: none; 
+  border-color: #007bff; 
+}
